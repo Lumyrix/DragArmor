@@ -1,0 +1,12 @@
+{
+  "eyebrow": "PIENI KIRJASTO PUUTTUU",
+  "required": "TÄMÄN MODIN VAATIMA",
+  "explanation": "Tarjoaa asetusnäytön, jolla tämä modi määritetään.",
+  "source": "Saatavilla Modrinthissa",
+  "download": "Lataa LumLib",
+  "direct": "Lataa suoraan mods-kansioon",
+  "downloading": "Ladataan...",
+  "done": "Valmis! Käynnistä peli uudelleen ladataksesi LumLibin.",
+  "failed": "Epäonnistui. Käytä yllä olevaa painiketta (verkkosivusto).",
+  "closing": "LumLib vaaditaan – peli suljetaan."
+}

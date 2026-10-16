@@ -1,0 +1,12 @@
+{
+  "eyebrow": "小さなライブラリが見つかりません",
+  "required": "このMODに必要です",
+  "explanation": "このMODの設定に使用する設定画面を提供します。",
+  "source": "Modrinthで入手可能",
+  "download": "LumLibをダウンロード",
+  "direct": "modsフォルダに直接ダウンロード",
+  "downloading": "ダウンロード中...",
+  "done": "完了！LumLibを読み込むにはゲームを再起動してください。",
+  "failed": "失敗しました。上のボタン（ウェブサイト）を使用してください。",
+  "closing": "LumLibが必要です。ゲームを終了します。"
+}

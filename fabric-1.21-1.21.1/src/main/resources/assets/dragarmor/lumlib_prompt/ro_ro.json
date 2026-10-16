@@ -1,0 +1,12 @@
+{
+  "eyebrow": "LIPSEȘTE O MICĂ BIBLIOTECĂ",
+  "required": "NECESARĂ PENTRU ACEST MOD",
+  "explanation": "Oferă ecranul de setări folosit pentru configurarea acestui mod.",
+  "source": "Disponibil pe Modrinth",
+  "download": "Descarcă LumLib",
+  "direct": "Descarcă direct în folderul mods",
+  "downloading": "Se descarcă...",
+  "done": "Gata! Repornește jocul pentru a încărca LumLib.",
+  "failed": "Eșuat. Folosește butonul de mai sus (site).",
+  "closing": "LumLib este obligatoriu — jocul se va închide."
+}

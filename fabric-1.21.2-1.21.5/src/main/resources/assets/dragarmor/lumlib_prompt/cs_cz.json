@@ -1,0 +1,12 @@
+{
+  "eyebrow": "CHYBÍ MALÁ KNIHOVNA",
+  "required": "VYŽADUJE TENTO MOD",
+  "explanation": "Poskytuje obrazovku nastavení pro konfiguraci tohoto modu.",
+  "source": "K dispozici na Modrinth",
+  "download": "Stáhnout LumLib",
+  "direct": "Stáhnout přímo do složky mods",
+  "downloading": "Stahování...",
+  "done": "Hotovo! Restartujte hru, aby se LumLib načetl.",
+  "failed": "Selhalo. Použijte tlačítko výše (web).",
+  "closing": "LumLib je vyžadován – hra se zavře."
+}

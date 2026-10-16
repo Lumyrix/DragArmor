@@ -1,0 +1,12 @@
+{
+  "eyebrow": "KÜÇÜK BİR KÜTÜPHANE EKSİK",
+  "required": "BU MOD İÇİN GEREKLİ",
+  "explanation": "Bu modu yapılandırmak için kullanılan ayarlar ekranını sağlar.",
+  "source": "Modrinth'te mevcut",
+  "download": "LumLib'i indir",
+  "direct": "Doğrudan mods klasörüne indir",
+  "downloading": "İndiriliyor...",
+  "done": "Tamamlandı! LumLib'i yüklemek için oyunu yeniden başlatın.",
+  "failed": "Başarısız. Yukarıdaki düğmeyi kullanın (web sitesi).",
+  "closing": "LumLib gereklidir — oyun kapatılacak."
+}

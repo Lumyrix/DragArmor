@@ -1,0 +1,51 @@
+plugins {
+    id 'fabric-loom' version '1.14-SNAPSHOT'
+}
+
+base {
+    archivesName = 'dragarmor'
+}
+
+version = "${rootProject.mod_version}+1.21-1.21.1"
+group = rootProject.maven_group
+
+sourceSets {
+    main {
+        java {
+            srcDir rootProject.file('common/src/main/java')
+        }
+    }
+}
+
+repositories {
+    mavenLocal()
+}
+
+dependencies {
+    modCompileOnly "dev.lumyrix:lumlib-fabric-1.21-1.21.1:1.0.0"
+    minecraft "com.mojang:minecraft:1.21.1"
+    mappings loom.officialMojangMappings()
+    modImplementation "net.fabricmc:fabric-loader:0.15.11"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:0.116.12+1.21.1"
+}
+
+processResources {
+    inputs.property "version", project.version
+    filesMatching("fabric.mod.json") {
+        expand "version": project.version
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.release = 21
+}
+
+java {
+    withSourcesJar()
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+}
+
+tasks.named('sourcesJar') {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+}

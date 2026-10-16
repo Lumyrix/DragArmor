@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "dragarmor",
+  "version": "${version}",
+  "name": "DragArmor",
+  "description": "Hold your quick swap keybind(vanilla default is shift) + hold left click and pass your mouse over armor or an shield for them to get put into their respective slots instantly.",
+  "license": "LSL-1.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.dragarmor.DragArmor"
+    ],
+    "preLaunch": [
+      "dev.dragarmor.LumLibPreLaunch"
+    ]
+  },
+  "mixins": [
+    "dragarmor.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "lumlib": "*"
+  },
+  "custom": {
+    "lumlib": true
+  }
+}

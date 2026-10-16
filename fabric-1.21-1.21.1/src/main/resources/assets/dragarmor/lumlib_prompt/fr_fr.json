@@ -1,0 +1,12 @@
+{
+  "eyebrow": "IL MANQUE UNE PETITE BIBLIOTHÈQUE",
+  "required": "REQUISE PAR CE MOD",
+  "explanation": "Fournit l'écran de paramètres utilisé pour configurer ce mod.",
+  "source": "Disponible sur Modrinth",
+  "download": "Télécharger LumLib",
+  "direct": "Télécharger directement dans le dossier mods",
+  "downloading": "Téléchargement...",
+  "done": "Terminé ! Redémarrez le jeu pour charger LumLib.",
+  "failed": "Échec. Utilisez le bouton ci-dessus (site web).",
+  "closing": "LumLib est requis : le jeu va se fermer."
+}

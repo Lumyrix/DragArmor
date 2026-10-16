@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "dragarmor",
+  "version": "${version}",
+  "name": "DragArmor",
+  "description": "Hold Your Quick Swap Keybind (Vanilla Default=Shift), then hold left click or right click and hover over armor or a shield in your inventory to instantly equip or unequip it.",
+  "license": "LSL-1.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.dragarmor.DragArmor"
+    ],
+    "preLaunch": [
+      "dev.dragarmor.LumLibPreLaunch"
+    ]
+  },
+  "mixins": [
+    "dragarmor.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "lumlib": "*"
+  },
+  "custom": {
+    "lumlib": true
+  }
+}

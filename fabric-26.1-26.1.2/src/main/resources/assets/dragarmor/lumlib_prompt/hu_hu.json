@@ -1,0 +1,12 @@
+{
+  "eyebrow": "EGY KIS KÖNYVTÁR HIÁNYZIK",
+  "required": "EZ A MOD IGÉNYLI",
+  "explanation": "Biztosítja a beállítási képernyőt a mod konfigurálásához.",
+  "source": "Elérhető a Modrinthen",
+  "download": "LumLib letöltése",
+  "direct": "Letöltés közvetlenül a mods mappába",
+  "downloading": "Letöltés...",
+  "done": "Kész! Indítsd újra a játékot a LumLib betöltéséhez.",
+  "failed": "Sikertelen. Használd a fenti gombot (weboldal).",
+  "closing": "A LumLib kötelező – a játék bezárul."
+}

@@ -1,0 +1,12 @@
+{
+  "eyebrow": "ER ONTBREEKT EEN KLEINE BIBLIOTHEEK",
+  "required": "VEREIST DOOR DEZE MOD",
+  "explanation": "Biedt het instellingenscherm waarmee deze mod wordt geconfigureerd.",
+  "source": "Beschikbaar op Modrinth",
+  "download": "LumLib downloaden",
+  "direct": "Rechtstreeks downloaden naar de map mods",
+  "downloading": "Downloaden...",
+  "done": "Klaar! Herstart het spel om LumLib te laden.",
+  "failed": "Mislukt. Gebruik de knop hierboven (website).",
+  "closing": "LumLib is vereist — het spel wordt afgesloten."
+}

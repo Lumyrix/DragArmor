@@ -1,0 +1,12 @@
+{
+  "eyebrow": "缺少一个小型库",
+  "required": "此模组需要",
+  "explanation": "提供用于配置此模组的设置界面。",
+  "source": "可在 Modrinth 获取",
+  "download": "下载 LumLib",
+  "direct": "直接下载到 mods 文件夹",
+  "downloading": "正在下载...",
+  "done": "完成！请重新启动游戏以加载 LumLib。",
+  "failed": "失败。请使用上方的按钮（网站）。",
+  "closing": "需要 LumLib — 游戏将关闭。"
+}

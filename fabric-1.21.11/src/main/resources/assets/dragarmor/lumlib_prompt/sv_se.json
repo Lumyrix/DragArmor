@@ -1,0 +1,12 @@
+{
+  "eyebrow": "ETT LITET BIBLIOTEK SAKNAS",
+  "required": "KRÄVS AV DEN HÄR MODDEN",
+  "explanation": "Tillhandahåller inställningsskärmen som används för att konfigurera den här modden.",
+  "source": "Finns på Modrinth",
+  "download": "Ladda ner LumLib",
+  "direct": "Ladda ner direkt till mappen mods",
+  "downloading": "Laddar ner...",
+  "done": "Klart! Starta om spelet för att läsa in LumLib.",
+  "failed": "Misslyckades. Använd knappen ovan (webbplats).",
+  "closing": "LumLib krävs – spelet stängs."
+}

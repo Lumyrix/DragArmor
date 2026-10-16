@@ -1,0 +1,12 @@
+{
+  "eyebrow": "ET LILLE BIBLIOTEK MANGLER",
+  "required": "PÅKRÆVET AF DENNE MOD",
+  "explanation": "Leverer indstillingsskærmen, der bruges til at konfigurere denne mod.",
+  "source": "Fås på Modrinth",
+  "download": "Download LumLib",
+  "direct": "Download direkte til mappen mods",
+  "downloading": "Downloader...",
+  "done": "Færdig! Genstart spillet for at indlæse LumLib.",
+  "failed": "Mislykkedes. Brug knappen ovenfor (websted).",
+  "closing": "LumLib er påkrævet – spillet lukkes."
+}

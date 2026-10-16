@@ -1,0 +1,12 @@
+{
+  "eyebrow": "A SMALL LIBRARY IS MISSING",
+  "required": "REQUIRED BY THIS MOD",
+  "explanation": "Provides the settings screen used to configure this mod.",
+  "source": "Available on Modrinth",
+  "download": "Download LumLib",
+  "direct": "Download directly to the mods folder",
+  "downloading": "Downloading...",
+  "done": "Done! Restart the game to load LumLib.",
+  "failed": "Failed. Use the button above (website).",
+  "closing": "LumLib is required — the game will close."
+}

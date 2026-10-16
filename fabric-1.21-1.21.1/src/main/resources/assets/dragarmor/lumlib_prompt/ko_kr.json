@@ -1,0 +1,12 @@
+{
+  "eyebrow": "작은 라이브러리가 없습니다",
+  "required": "이 모드에 필요합니다",
+  "explanation": "이 모드를 설정하는 데 사용하는 설정 화면을 제공합니다.",
+  "source": "Modrinth에서 이용 가능",
+  "download": "LumLib 다운로드",
+  "direct": "mods 폴더로 바로 다운로드",
+  "downloading": "다운로드 중...",
+  "done": "완료! LumLib을 불러오려면 게임을 다시 시작하세요.",
+  "failed": "실패했습니다. 위의 버튼(웹사이트)을 사용하세요.",
+  "closing": "LumLib이 필요합니다. 게임이 종료됩니다."
+}
